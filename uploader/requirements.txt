@@ -1,0 +1,4 @@
+Flask==2.3.3
+minio==7.1.14
+Pillow==10.0.1
+python-dotenv==1.0.0
