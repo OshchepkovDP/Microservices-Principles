@@ -98,3 +98,10 @@ curl -X POST -H 'Authorization: Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJz
 
 Получение файла curl -X GET http://localhost/images/4e6df220-295e-4231-82bc-45e4b1484430.jpg
 
+Ответ:
+
+Скриншот подтверждения работы микросервисов
+![Uploader.jpg](https://github.com/OshchepkovDP/Microservices-Principles/blob/main/img/Uploader.jpg)
+
+Скриншот работы Minio с загруженным изображением
+![Minio.jpg](https://github.com/OshchepkovDP/Microservices-Principles/blob/main/img/Minio.jpg)
